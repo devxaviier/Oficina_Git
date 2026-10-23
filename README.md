@@ -19,6 +19,8 @@
 
 Este repositório reúne as atividades da **Oficina de Git & GitHub**: listas de exercícios das aulas 1, 2 e 3 (com respostas) e um script em Shell que automatiza o fluxo de envio de código, desenvolvido na aula 4.
 
+**Período de realização:** Outubro de 2026.
+
 > 💡 O objetivo é praticar o controle de versão e deixar o aprendizado documentado, versionado e acessível.
 
 ---
