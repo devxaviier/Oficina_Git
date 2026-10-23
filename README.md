@@ -1,6 +1,6 @@
 <div align="center">
 
-# Atividades de Monitoria | Git & GitHub
+# Monitoria | Git & GitHub
 
 **Exercícios resolvidos + automação com Shell Script**
 
