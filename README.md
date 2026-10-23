@@ -147,7 +147,12 @@ git push       →  envia para o GitHub
 
 **Theo Xavier**
 Estudante de Engenharia de Software no CEUB
-RA: 22650114 | Email: theo.xavier@sempreceub.com
+
+| | |
+|---|---|
+| **RA:** | `22650114` |
+| **E-mail institucional:** | [theo.xavier@sempreceub.com](theo.xavier@sempreceub.com) |
+| | |
 
 [![GitHub](https://img.shields.io/badge/GitHub-devxaviier-181717?style=flat-square&logo=github)](https://github.com/devxaviier)
 
